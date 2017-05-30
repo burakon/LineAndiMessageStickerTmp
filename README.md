@@ -4,8 +4,8 @@ LineとiMessageのスタンプ作るときのテンプレ
 
 # Line
 
-`linetmp.psd
-lineIcons.psd`
+`linetmp.psd`
+`lineIcons.psd`
 
 LineDirectoryのfileを開いて使う
 imagesに書き出し後のfileがあるのでその形式で書き出し(ガイドに沿って書き出し)
@@ -14,8 +14,8 @@ http://kakichan.heteml.jp/line/
 
 # iMessage
 
-`Template-iMessageAppIcons-iOS.psd
-imessage_small.psd`
+`Template-iMessageAppIcons-iOS.psd`
+`imessage_small.psd`
 
 iMessageのIconをTemplate-iMessageAppIcons-iOS.psdを参考にTemplate-iMessageAppIcons-iOS-assetsに書き出す
 imessage_small.psdを参考に適当な場所にガイドに沿って書き出し
